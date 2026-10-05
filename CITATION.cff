@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it."
+title: "Video Anomaly Detection on UCF-Crime with a Frozen 3D CNN, BiGRU and MIL Ranking Loss"
+authors:
+  - name: "Khurram"
+repository-code: "https://github.com/Khurram32/ucf-crime-anomaly-detection"
+license: MIT
