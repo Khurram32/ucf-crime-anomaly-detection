@@ -118,5 +118,7 @@ Features must come from the same extractor (torchvision `r3d_18`, Kinetics weigh
 ## Author
 
 **Khurram** - [github.com/Khurram32](https://github.com/Khurram32)
+**Sahil** -(https://github.com/SahilRai02)
+**TejasA03** 
 
 Released under the [MIT License](LICENSE).
