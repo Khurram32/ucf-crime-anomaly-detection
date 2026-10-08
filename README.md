@@ -4,7 +4,7 @@ Weakly-supervised video anomaly detection using a **frozen Kinetics-pretrained 3
 
 **Result: video-level test AUC = 0.844** on the 290 official UCF-Crime test videos.
 
-![ROC curve](results/roc_curve.png)
+![ROC curve]([results/roc_curve.png](https://github.com/Khurram32/ucf-crime-anomaly-detection-BiGRU-based-3D-CNN/blob/Khurram32-results/roc_curve.png))
 
 ## How it works
 
@@ -31,11 +31,11 @@ Running the script prints the full metric set (AP, accuracy, precision, recall, 
 
 | Per-class detection rate | Training curves |
 |---|---|
-| ![Class detection](results/class_detection.png) | ![Training curves](results/training_curves.png) |
+| ![Class detection]([results/class_detection.png](https://github.com/Khurram32/ucf-crime-anomaly-detection-BiGRU-based-3D-CNN/blob/Khurram32-results/class_detection.png)) | ![Training curves]([results/training_curves.png](https://github.com/Khurram32/ucf-crime-anomaly-detection-BiGRU-based-3D-CNN/blob/Khurram32-results/training_curves.png)) |
 
 **Segment-level score timelines** for sample test videos (red = anomalous, blue = normal):
 
-![Score timelines](results/score_timelines.png)
+![Score timelines]([results/score_timelines.png](https://github.com/Khurram32/ucf-crime-anomaly-detection-BiGRU-based-3D-CNN/blob/Khurram32-results/score_timelines.png))
 
 ### Observations
 
